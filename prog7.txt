@@ -1,0 +1,8 @@
+1. Adobe's Drawing Tools to Create a Digital Replica:
+Process: You use tools like Adobe Acrobat to digitally draw your signature directly onto a document. This is done by using a stylus, mouse, or touchpad.
+Features: The result is a digital version of your handwritten signature, created and embedded in the document.
+Suitability: This method provides a cleaner, more professional look and can be used for informal or non-legally binding documents. However, it lacks encryption or authentication features, making it unsuitable for high-security purposes.
+2. Attached a Scanned Image of Your Handwritten Signature:
+Process: You write your signature on paper, scan or photograph it, and insert the scanned image into a document (e.g., Word, PDF).
+Features: This method captures your actual handwritten signature and places it as an image in the document.
+Suitability: This is suitable for informal use but lacks security features like encryption. Like the first method, it's not recommended for formal or legally binding agreements since it can easily be copied or altered.

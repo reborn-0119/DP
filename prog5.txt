@@ -1,0 +1,17 @@
+Data privacy laws specify how data should be collected, stored, 
+and shared with third parties. The most widely discussed 
+data privacy laws include:
+
+GDPR: The European Union’s General Data Protection Regulation (GDPR)
+is the most comprehensive data privacy law in effect. It applies to 
+European Union citizens and all companies that do business with them, 
+including countries not based in Europe. GDPR gives individuals the 
+right to determine what data organizations store, request that 
+organizations delete their data, and receive notifications of data 
+breaches. Noncompliance may result in hefty fines and legal action.
+
+CCPA: The California Consumer Privacy Act (CCPA) is a state-level 
+regulation in the United States. It enables California residents to 
+ask organizations what personal data exists about them, delete it 
+on request, and find out what data has been given to third parties. 
+These measures apply to consumer data gathered within the state.

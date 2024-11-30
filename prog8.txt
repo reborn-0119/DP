@@ -1,0 +1,20 @@
+1. Understand Legal Requirements
+Identify applicable data privacy laws (e.g., GDPR, CCPA) and ensure compliance.
+2. Define Scope and Objectives
+Set the audit’s goals, focusing on data types, risks, and privacy regulations.
+3. Data Mapping
+Document all data sources, flows, and storage locations. Classify data based on sensitivity.
+4. Review Data Collection Practices
+Check if data collection follows legal consent requirements and is limited to specified purposes.
+5. Assess Data Protection and Security
+Ensure encryption, access control, and data minimization measures are in place.
+6. Evaluate Third-Party Sharing
+Review third-party agreements, subprocessors, and compliance with privacy laws.
+7. Examine Data Retention and Deletion
+Verify that data is retained for the minimum necessary time and securely deleted when no longer needed.
+8. Review Incident Response and Breach Notification
+Assess breach detection, incident response plans, and compliance with breach notification laws.
+9. Evaluate Employee Training
+Ensure employees are trained on data privacy and security practices.
+10. Identify Risks and Prepare Report
+Conduct risk assessments, summarize findings, and provide recommendations for improving data privacy practices.
